@@ -27,3 +27,11 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+
+Activity Lifecycle
+---------------
+
+<div align="center">
+<img align="center" alt="Activity Lifecycle" height="500" src="https://github.com/knludi/TipTime/blob/master/README/lifecycle.png">
+</div>
